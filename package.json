@@ -1,0 +1,29 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friend finder....do I need to stay more?",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleygamboa/Week-13-Homework.git"
+  },
+  "keywords": [
+    "friend",
+    "finder"
+  ],
+  "author": "Bradley Gamboa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradleygamboa/Week-13-Homework/issues"
+  },
+  "homepage": "https://github.com/bradleygamboa/Week-13-Homework#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  }
+}
